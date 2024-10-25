@@ -1,0 +1,35 @@
+.main-div {
+  text-align: center;
+  margin: 20vw;
+}
+
+.form {
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 20px;
+  margin-left: 8vw;
+  margin-right: 8vw;
+  font-size: 20px;
+}
+
+.form select {
+  width: 100%; /* Make the inputs occupy full width */
+  padding: 10px;
+  margin-bottom: 15px; /* Add space between inputs */
+  border: 1px solid #ccc;
+  border-radius: 4px; /* Smooth border for inputs */
+  font-size: 16px;
+}
+
+.form input {
+  width: 95%; /* Make the inputs occupy full width */
+  padding: 10px;
+  margin-bottom: 15px; /* Add space between inputs */
+  border: 1px solid #ccc;
+  border-radius: 4px; /* Smooth border for inputs */
+  font-size: 16px;
+}
+
+.form button {
+  border: 1px solid black;
+}
